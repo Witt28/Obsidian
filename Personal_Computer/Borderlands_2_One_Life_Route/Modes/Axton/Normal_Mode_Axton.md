@@ -9,4 +9,13 @@
 - Farm BadMaw till level 17
 
 ### 17-24 
-- Go and get Orphan Maker from pirate DLC
+- Go and get Orphan Maker from pirate DLC (Will have a 2 shot and foregrip)
+- Go through main story until bright lights flying city and then do clan wars side missions all the way through
+- Make sure to save quit farm a slagga before finishing the final quest
+- Farm Maggie Guy until level 23
+- Do the main story until "Where Angels Fear to Tread"
+- You should be 24 by this point if not farm Varkids in the hole where sanctuary was
+- Also grab a shield from one of the head hunter DLCs and a class mod that boost the Onslaught skill 
+
+### 24-
+- Go and do Torgue DLC 
