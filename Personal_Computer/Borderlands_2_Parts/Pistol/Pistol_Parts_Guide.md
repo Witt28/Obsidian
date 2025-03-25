@@ -1,13 +1,14 @@
 ---
-title: "Pistol Parts Guide"
-source: "https://bl2.parts/pistols/"
+title: Pistol Parts Guide
+source: https://bl2.parts/pistols/
 author:
   - "[[bl2parts]]"
-published:
+published: 
 created: 2024-12-27
-description: "BL2/TPS Part Guides"
+description: BL2/TPS Part Guides
 tags:
-  - "clippings"
+  - clippings
+  - Borderlands2
 ---
 ##### Pistols are made out of 5 main visible parts.
 - [[Accessory_Pistol]]
